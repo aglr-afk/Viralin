@@ -23,7 +23,7 @@ Also included: saved libraries for topics, posts, corrected posts, hooklines, ca
 ![Post Repurposer](post-repurposer.png)
 
 ## Built with
-Lovable and AI
+Built in Lovable, powered by a Gemini Flash model.
 
 ## Note
 This repo is a showcase of the live product. The source code is private.
