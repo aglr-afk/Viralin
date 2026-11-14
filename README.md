@@ -29,4 +29,4 @@ Built in Lovable, powered by a Gemini Flash model.
 This repo is a showcase of the live product. The source code is private.
 
 ## Contact
-[agniva.work26@gmail.com](mailto:agniva.work26@gmail.com)
+[Email Me](mailto:agnivabuilds@proton.me)
